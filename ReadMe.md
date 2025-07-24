@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii  Ashish bedare<br>B-Tech In computer Science & Engineering<br>Python & Java
+Hii I'm Ashish Bedare<br>B-Tech In computer Science & Engineering<br>Working on Machine Learning, Python & Java
 
 
 ## 🌐 Socials:
