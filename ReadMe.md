@@ -37,32 +37,5 @@ I’m passionate about **AI, Deep Learning, and Full-Stack Development**. I love
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Projects **
 
-### [🎥 Mock Interview with Confidence & Cheating Detection](https://github.com/codeAshi/mock-interview-fastAPI)
-FastAPI-based mock interview platform that analyzes **confidence level** using a deep learning model and detects **cheating behavior** via computer vision.
-
-### [🌱 Plant Disease Detection](https://github.com/codeAshi/plant-disease-detection)
-Deep learning-based system to classify plant leaf diseases with **high accuracy**.
-
----
-
-## 📊 **GitHub Stats**
-
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeAshi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAshi&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=codeAshi&theme=radical&border_radius=4.5)
-
----
-
-## 📫 **Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ashishbedare2004/))  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedareashish@gmail.com)
-
----
-
-### 📝 **Visitor Counter**
-![Visitor Count](https://komarev.com/ghpvc/?username=codeAshi&style=for-the-badge&color=blue)
-
----
