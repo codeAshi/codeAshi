@@ -1,21 +1,68 @@
-# 💫 About Me:
-Hii I'm Ashish Bedare<br>B-Tech In computer Science & Engineering<br>Working on Machine Learning, Python & Java
+# 👋 Hi, I'm **Ashish Bhaskar Bedare**
 
+### 🚀 B.Tech Computer Engineering Student | Deep Learning & FastAPI Enthusiast | Machine Learning | Aspiring Software Developer
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aashh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashish Bedare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Technical with Tractor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishbedare9@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeAshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeAshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codeAshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m passionate about **AI, Deep Learning, and Full-Stack Development**. I love building **real-time applications** and experimenting with **computer vision & NLP models**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codeAshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 **About Me**
+
+- 🎓 B.Tech in **Computer Engineering** (Semester VI)  
+- 💻 Strong in **Python, FastAPI, Machine Learning, and Computer Vision**  
+- 🤖 Built **Plant Disease Detection** & **Mock Interview System** with confidence analysis  
+- 🌱 Currently learning **MLOps** & **System Design**  
+- 💬 Ask me about **Deep Learning, APIs, or Full Stack Development**  
+
+---
+
+## 🛠 **Tech Stack**
+
+### **Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 **Featured Projects**
+
+### [🎥 Mock Interview with Confidence & Cheating Detection](https://github.com/codeAshi/mock-interview-fastAPI)
+FastAPI-based mock interview platform that analyzes **confidence level** using a deep learning model and detects **cheating behavior** via computer vision.
+
+### [🌱 Plant Disease Detection](https://github.com/codeAshi/plant-disease-detection)
+Deep learning-based system to classify plant leaf diseases with **high accuracy**.
+
+---
+
+## 📊 **GitHub Stats**
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeAshi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeAshi&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=codeAshi&theme=radical&border_radius=4.5)
+
+---
+
+## 📫 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ashishbedare2004/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedareashish@gmail.com)
+
+---
+
+### 📝 **Visitor Counter**
+![Visitor Count](https://komarev.com/ghpvc/?username=codeAshi&style=for-the-badge&color=blue)
+
+---
