@@ -9,7 +9,7 @@ I’m passionate about **AI, Deep Learning, and Full-Stack Development**. I love
 ## 🔥 **About Me**
 
 - 🎓 B.Tech in **Computer Engineering** (Final Year)  
-- 💻 Strong in **Python, FastAPI, Machine Learning, and Computer Vision**  
+- 💻 Strong in **Java, Python, FastAPI, Machine Learning, and Computer Vision**  
 - 🤖 Built **Plant Disease Detection** & **Mock Interview System** with confidence analysis  
 - 🌱 Currently learning **MLOps** & **System Design**  
 - 💬 Ask me about **Deep Learning, APIs, or Full Stack Development**  
