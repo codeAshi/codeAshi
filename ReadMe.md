@@ -4,7 +4,7 @@
 
 I’m passionate about **AI, Deep Learning, and Full-Stack Development**. I love building **real-time applications** and experimenting with **computer vision & NLP models**.
 
----
+----
 
 ## 🔥 **About Me**
 
