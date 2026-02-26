@@ -5,8 +5,8 @@ B.Tech Computer Engineering Student | Deep Learning & FastAPI Enthusiast | ML En
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-       width="750" 
-       alt="Developer working animation"/>
+       width="350" 
+       alt="Developer working"/>
 </p>
 
 ---
