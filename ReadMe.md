@@ -1,3 +1,4 @@
+<img width="100%" height="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="profile" />
 # 👋 Hi, I'm **Ashish Bhaskar Bedare**
 
 ### 🚀 B.Tech Computer Engineering Student | Deep Learning & FastAPI Enthusiast | Machine Learning | Aspiring Software Developer
