@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ashish Bhaskar Bedare</h1>
-<h3 align="center">
-B.Tech Computer Engineering Student | Deep Learning & FastAPI Enthusiast | ML Engineer | Aspiring Software Developer
-</h3>
+<table>
+<tr>
+<td width="50%" align="left">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-       width="350" 
-       alt="Developer working"/>
-</p>
+<h1>Hi 👋, I'm Ashish Bhaskar Bedare</h1>
 
+### 🚀 B.Tech Computer Engineering Student  
+Deep Learning & FastAPI Enthusiast  
+ML Engineer | Aspiring Software Developer  
+
+- 🎓 Final Year Computer Engineering Student  
+- 💻 Skilled in Java, Python, FastAPI, ML & CV  
+- 🤖 Built AI Mock Interview & Plant Disease Detection  
+- 🌱 Learning MLOps & System Design  
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+     width="350" 
+     alt="Developer illustration"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 About Me
