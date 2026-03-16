@@ -44,10 +44,10 @@ ML Engineer | Aspiring Software Developer
 `Java` `Python` `SQL`
 
 ### 🚀 Backend & APIs
-`FastAPI` `REST APIs`
+`FastAPI` `REST APIs` `Micro-services`
 
 ### 🤖 AI / ML
-`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `NLP`
+`TensorFlow` `Scikit-learn` `OpenCV` `NLP`
 
 ### 🗄 Database
 `MySQL` `MongoDB`
