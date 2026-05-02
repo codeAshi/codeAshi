@@ -28,7 +28,7 @@ ML Engineer | Aspiring Software Developer
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-`Java` `Python` `SQL`
+`Java` `Python` `SQL` `MongoDB`
 
 ### 🚀 Backend & APIs
 `FastAPI` `REST APIs` `Micro-services`
