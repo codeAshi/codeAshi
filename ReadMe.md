@@ -9,8 +9,8 @@ Deep Learning & FastAPI Enthusiast
 ML Engineer | Aspiring Software Developer  
 
 - 🎓 Final Year Computer Engineering Student  
-- 💻 Skilled in Java, Python, FastAPI, ML & CV  
-- 🤖 Built AI Mock Interview & Plant Disease Detection  
+- 💻 Skilled in Java, HTML, CSS, JavaScript, React, MongoDB, Git & Cloud.  
+- 🤖 BlockChain Certificate Verification, Smart Eye Visual Assistance
 - 🌱 Learning MLOps & System Design  
 
 </td>
@@ -28,10 +28,10 @@ ML Engineer | Aspiring Software Developer
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-`Java` `Python` `SQL` `MongoDB`
+`Java` `Python` `SQL` `MongoDB` `React`
 
 ### 🚀 Backend & APIs
-`FastAPI` `REST APIs` `Micro-services`
+`FastAPI` `REST APIs` `Micro-services` `JavaScript`
 
 ## 📊 GitHub Stats
 
