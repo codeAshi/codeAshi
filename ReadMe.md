@@ -39,5 +39,4 @@ ML Engineer | Aspiring Software Developer
   <img src="https://github-readme-stats.vercel.app/api?username=codeAshi&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeAshi&theme=tokyonight" height="170"/>
 </p>
-
 ⭐ Always open to collaboration on AI, ML & Backend projects.
